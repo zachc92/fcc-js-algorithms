@@ -1,0 +1,1 @@
+This is a repo containing all of my solutions to the JavaScript algorithm problems found on FreeCodeCamp
